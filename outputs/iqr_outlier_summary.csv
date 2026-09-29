@@ -1,0 +1,4 @@
+measure,lower_fence,upper_fence,outlier_count
+Traffic_Speed,32.07,92.38999999999999,75
+Traffic_Volume,40.800000000000125,1209.6,938
+Rainfall,0.0,0.0,6646

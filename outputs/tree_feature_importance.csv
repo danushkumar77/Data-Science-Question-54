@@ -1,0 +1,38 @@
+feature,importance
+numeric__Rainfall,0.28312223192318137
+categorical__Time_of_Day_Evening Peak,0.1957988752315732
+categorical__Time_of_Day_Morning Peak,0.17182779503043832
+categorical__Road_ID_R04,0.13459478644482778
+numeric__Traffic_Volume,0.0810340244374852
+categorical__Road_ID_R02,0.07524413642507756
+categorical__Weather_Condition_Light Rain,0.05554551002886445
+categorical__Road_ID_R14,0.0028326404785522347
+categorical__Weather_Condition_Clear,0.0
+categorical__Weather_Condition_Heavy Rain,0.0
+categorical__Weather_Condition_Fog,0.0
+categorical__Weather_Condition_Cloudy,0.0
+categorical__Weekday_Friday,0.0
+categorical__Weekday_Sunday,0.0
+categorical__Weekday_Saturday,0.0
+categorical__Weekday_Thursday,0.0
+categorical__Weekday_Tuesday,0.0
+categorical__Road_ID_R01,0.0
+categorical__Weekday_Monday,0.0
+categorical__Time_of_Day_Midday,0.0
+categorical__Time_of_Day_Night,0.0
+categorical__Road_ID_R05,0.0
+categorical__Road_ID_R03,0.0
+categorical__Weekday_Wednesday,0.0
+categorical__Road_ID_R06,0.0
+categorical__Road_ID_R10,0.0
+categorical__Road_ID_R07,0.0
+categorical__Road_ID_R08,0.0
+categorical__Road_ID_R09,0.0
+categorical__Road_ID_R13,0.0
+categorical__Road_ID_R12,0.0
+categorical__Road_ID_R11,0.0
+categorical__Road_ID_R15,0.0
+numeric__hour,0.0
+numeric__hour_sin,0.0
+numeric__hour_cos,0.0
+numeric__is_weekend,0.0

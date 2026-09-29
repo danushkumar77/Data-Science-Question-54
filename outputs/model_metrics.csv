@@ -1,0 +1,5 @@
+model,variant,accuracy,precision,recall,f1,roc_auc,cv_roc_auc_mean,cv_roc_auc_std,best_params,train_rows,test_rows,positive_rate_test
+Decision tree,with_volume,0.9788888888888889,0.37037037037037035,0.09345794392523364,0.14925373134328357,0.9447983670903732,0.9349020352708939,0.009480186018299926,"{""classifier__ccp_alpha"": 0.0, ""classifier__class_weight"": null, ""classifier__criterion"": ""gini"", ""classifier__max_depth"": 5, ""classifier__min_samples_leaf"": 20, ""classifier__min_samples_split"": 2}",27000,5400,0.019814814814814816
+Decision tree,without_volume,0.9801851851851852,0.0,0.0,0.0,0.9447250909771503,0.9318142751631289,0.019628717233538907,"{""classifier__ccp_alpha"": 0.0, ""classifier__class_weight"": null, ""classifier__criterion"": ""gini"", ""classifier__max_depth"": 8, ""classifier__min_samples_leaf"": 50, ""classifier__min_samples_split"": 2}",27000,5400,0.019814814814814816
+Logistic regression,with_volume,0.8651851851851852,0.11428571428571428,0.8598130841121495,0.20175438596491227,0.9529143587633816,,,,27000,5400,0.019814814814814816
+Majority baseline,baseline,0.9801851851851852,0.0,0.0,0.0,0.5,,,,27000,5400,0.019814814814814816

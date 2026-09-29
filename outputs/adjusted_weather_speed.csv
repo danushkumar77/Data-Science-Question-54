@@ -1,0 +1,21 @@
+Time_of_Day,Weather_Condition,adjusted_speed
+Night,Clear,67.02422996854797
+Night,Cloudy,67.13771728422991
+Night,Light Rain,62.87152677292895
+Night,Heavy Rain,58.04321868673781
+Night,Fog,67.05105031919675
+Morning Peak,Clear,50.95740098990755
+Morning Peak,Cloudy,51.22017260376699
+Morning Peak,Light Rain,47.031524235827135
+Morning Peak,Heavy Rain,42.91094834754815
+Morning Peak,Fog,50.67599074607481
+Midday,Clear,67.05706384675263
+Midday,Cloudy,67.01036428134286
+Midday,Light Rain,62.823918641637796
+Midday,Heavy Rain,58.48017548254313
+Midday,Fog,67.03756073676777
+Evening Peak,Clear,50.9878808250779
+Evening Peak,Cloudy,51.303803112520654
+Evening Peak,Light Rain,46.779810806089145
+Evening Peak,Heavy Rain,42.662495857327976
+Evening Peak,Fog,50.85399719184076
